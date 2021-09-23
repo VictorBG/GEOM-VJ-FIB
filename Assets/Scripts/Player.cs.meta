@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a9f26ed178e69784cbce85e11440af94
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cameraObject: {instanceID: 0}
+  - explosionPrefab: {fileID: 4271699699143577312, guid: b6736c39af96f304f8b7c4fcc6e3695f, type: 3}
+  - dieExplosionPrefab: {fileID: 4857683532020882387, guid: be4c541dc94d7574694593001210927e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
